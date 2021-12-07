@@ -92,6 +92,7 @@ all_countries
 
 
 app = dash.Dash(__name__)
+server = app.server
 
 
 # In[12]:
